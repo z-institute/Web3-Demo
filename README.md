@@ -27,4 +27,4 @@ node index
 
 ## Contribution
 
-Welcome any pull request if you want to improve this piece of code!
+Welcome any pull request if you want to improve this piece of code! Also feel free to star this project if you find it handy. 🧚🏻🌟
