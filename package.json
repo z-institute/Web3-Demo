@@ -1,0 +1,11 @@
+{
+  "name": "Web3-Demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "dotenv": "^10.0.0",
+    "web3": "^3.0.0-rc.5"
+  }
+}
